@@ -1,3 +1,5 @@
+# NAME: MUHAMMAD ARQUM , STUDENT ID: 21725
+
 # Q1)Write a Python program to do arithmetical operations addition and division. 
 
 num1 = float(input('enter the first number for edition'))
