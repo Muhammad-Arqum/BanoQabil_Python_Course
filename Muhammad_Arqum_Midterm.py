@@ -2,21 +2,28 @@
 
 # Q1)Write a Python program to do arithmetical operations addition and division. 
 
-num1 = float(input('enter the first number for edition'))
-num2 = float(input('enter the second number for edition'))
+num1 = float(
+  input('enter the first number for edition'))
+num2 = float(
+  input('enter the second number for edition'))
 sum = float(num1+num2)
 print('sum',sum)
+
 division = float(num1/num2)
 print('division',division)
+
 power = int(num1**num2)
 print('power ',power)
+
 floor_divident = int(num1%num2)
 print('floor_division',floor_divident)
 
 # Q2)Write a Python program to find the area of a triangle.
 
-length = float(input('enter the length of a triangle'))
-height = float(input('enter the height of a triangle'))
+length = float(
+  input('enter the length of a triangle'))
+height = float(
+  input('enter the height of a triangle'))
 area = float(length*height/2)
 print('the area of triangle is',area)
 
