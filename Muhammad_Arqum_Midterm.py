@@ -15,7 +15,7 @@ print('division',division)
 power = int(num1**num2)
 print('power ',power)
 
-floor_divident = int(num1%num2)
+floor_divident = int(num1//num2)
 print('floor_division',floor_divident)
 
 # Q2)Write a Python program to find the area of a triangle.
